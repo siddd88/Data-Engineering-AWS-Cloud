@@ -1,0 +1,1 @@
+select * from ecommerce_db.product_category_name_translation
